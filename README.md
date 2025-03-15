@@ -1,7 +1,7 @@
 # Hi there, I'm Julian 👋
 
 I'm a passionate developer with a strong background in quantitative analysis, blockchain, and innovative digital solutions. 
-Check out my portfolio: [kumarajulian.vercel.app](https://kumarajulian.vercel.app/)
+[kumarajulian.vercel.app](https://kumarajulian.vercel.app/)
 
 ---
 
@@ -49,12 +49,6 @@ I have worked on several projects that span blockchain development, real-time da
 - **Email:** [kumarajulianr@gmail.com](mailto:kumarajulianr@gmail.com)
 - **LinkedIn:** [Julian Kumarakulasingam](https://www.linkedin.com/in/juliankumara/)
 - **GitHub:** [0xjkrdev](https://github.com/0xjkrdev)
-
----
-
-## ⚙️ Currently Working On
-
-- MEV Arbitrage bot (EVM and Solana)  
 
 ---
 
