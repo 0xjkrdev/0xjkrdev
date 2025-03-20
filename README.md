@@ -4,6 +4,8 @@ I'm a passionate developer with a strong background in quantitative analysis, bl
 [kumarajulian.vercel.app](https://kumarajulian.vercel.app/)
 
 ---
+## 🚀 Latest Projects
+(https://solana-wrapper.vercel.app/)
 
 ## ⚡ Technologies
 
@@ -11,7 +13,6 @@ I'm a passionate developer with a strong background in quantitative analysis, bl
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
-![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript)
 
 ### Blockchain
 ![Ethereum (EVM)](https://img.shields.io/badge/-Ethereum-black?style=flat-square&logo=ethereum)
@@ -21,11 +22,9 @@ I'm a passionate developer with a strong background in quantitative analysis, bl
 ![Solana](https://img.shields.io/badge/-Solana-black?style=flat-square&logo=solana)
 
 ### Web Technologies
-![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
-![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwindcss)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwindcss)
 
 ### Databases
 ![Postgres](https://img.shields.io/badge/-Postgres-black?style=flat-square&logo=postgresql)
