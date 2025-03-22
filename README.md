@@ -1,11 +1,14 @@
 # Hi there, I'm Julian 👋
 
-I'm a passionate developer with a strong background in quantitative analysis, blockchain, and innovative digital solutions. 
+I'm a passionate developer with a strong background in quantitative analysis, blockchain, and innovative digital solutions.  
 [kumarajulian.vercel.app](https://kumarajulian.vercel.app/)
 
 ---
+
 ## 🚀 Latest Projects
-(https://solana-wrapper.vercel.app/)
+
+- [Sol Wrapper](https://solana-wrapper.vercel.app/) | [Watch the demo video](https://www.youtube.com/watch?v=bdQlmbcAlTk) | [Source code](https://github.com/0xjkrdev/solana-wrapper)
+
 
 ## ⚡ Technologies
 
@@ -39,7 +42,7 @@ I'm a passionate developer with a strong background in quantitative analysis, bl
 
 ## 🚀 Projects
 
-I have worked on several projects that span blockchain development, real-time data analytics, and web technologies.  
+I have worked on several projects that span blockchain development, real-time financial data analytics, and web technologies.
 
 ---
 
